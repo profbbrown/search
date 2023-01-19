@@ -2,9 +2,9 @@
 
 Use this to demonstrate linear and binary search. Invoke this two ways:
 
-* [Linear Search](https://profbbrown.github.io/index.html)
+* [Linear Search](https://profbbrown.github.io/search/index.html)
 
-* [Binary Search](https://profbbrown.github.io/index.html?sorted=1)
+* [Binary Search](https://profbbrown.github.io/search/index.html?sorted=1)
 
 Works well projected on a screen.
 
